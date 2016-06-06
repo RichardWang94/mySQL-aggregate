@@ -1,6 +1,6 @@
 Team name: Placeholdertext
-Names: Richard Wang Perm: 6604037
-       Spencer Pao Perm: 6082069
+Names: Richard Wang
+       Spencer Pao
 
 Instructions: Before either program can be compiled, the information about the instance to connect to AWS with must be hardcoded into the two files. For client.c: the public IP address of the instance, user, password, and database name, as well as port number. The key, generated from the keygen function in the paillier library, must be hardcoded into both files.
 
